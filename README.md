@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 
  <div align="center">
--[![Bikranta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bikranta3121&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+  <img width="" src="https://github-readme-stats.vercel.app/api?username=Bikranta3121&show_icons=true&theme=merko&hide_title=1&card_width=300" alt="Top language used in my repos" />
+<!-----[![Bikranta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bikranta3121&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)---->
 </div>
