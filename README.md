@@ -5,9 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying at NIT Rourkela
+- 🔭 I’m currently studying at NIT Rourkela(CSE) 
 - 🌱 I’m currently learning DSA and web dev(MERN stack).
-- 💬 Ask me about dsa front end devlopment(html,css,js)
+- 💬 Ask me about dsa.
+- 😉 I'm interested in CP
 - 📫 How to reach me:<a href="https://www.linkedin.com/in/bikranta-kumar-behera/" target="_blank">LINKEDIN</a>
 
  <div align="center">
